@@ -1,0 +1,6 @@
+Humans interact with computers through user interfaces; designing useful and 
+effective interfaces involves many challenges for both designers and programmers. 
+This course will cover the basics of the field of human computer interaction 
+including the human factors of interactive software, methods to develop and 
+assess interfaces, interaction styles and design considerations. The class 
+will include research and design projects as well as a programming project. 

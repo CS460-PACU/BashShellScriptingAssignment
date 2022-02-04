@@ -1,0 +1,8 @@
+CS150 is a first course in computing and programming fundamentals. 
+The goal of this course is to introduce you to problem solving through 
+programming a computer. No previous computer experience of any type 
+is required, but a deep interest in using one is. In this course, you 
+will learn to program in C++. By the end of this course you should be 
+able to write a program to do anything you want, given enough time 
+and patience.
+

@@ -1,0 +1,4 @@
+This course provides a hands-on introduction to operating systems. Topics 
+covered include processes and threads, CPU scheduling, memory management, 
+I/O systems, distributed file systems, multiprocessor operating systems.
+Prerequisite: CS 300 with a grade of "C" or better. 4 hours.

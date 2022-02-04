@@ -1,0 +1,6 @@
+An introduction to both the theory and application of Database Management 
+Systems. Topics covered will include database design including normalization 
+and optimization, the relational model, security, transaction management, 
+and the query language SQL. Distributed and web architectures will be 
+discussed. All topics in the course will be implemented concretely using 
+a modern DBMS. Prerequisite: CS 300 with a grade of "C" or better. 4 hours. 

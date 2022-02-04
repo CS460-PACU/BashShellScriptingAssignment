@@ -1,0 +1,8 @@
+An introduction to the formal techniques that support the design and 
+analysis of algorithms, focusing on both the underlying mathematical 
+theory and the practical considerations of efficiency. Topics include 
+asymptotic complexity bounds, techniques of analysis, algorithmic strategies, 
+advanced data structures, graph theory and other selected topics. 
+Coursework includes object-oriented programming in C++ and covers 
+templates, STL, and exception handling. Prerequisite: CS 300 and 
+MATH 240 each with a minimum grade of C. Offered alternate years. 4 credits. 

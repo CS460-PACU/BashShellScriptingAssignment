@@ -1,0 +1,6 @@
+An introduction to compliers. Topics covered include: symbol tables, 
+lexical analysis, parsing, attribute grammars, syntax-directed 
+translations, semantic analysis, code generation, and runtime environments. 
+This course includes a laboratory experience which involves the coding, 
+verification, and validation of a compiler. Prerequisite: CS 310 with a 
+grade of "C" or better. 4 credits.

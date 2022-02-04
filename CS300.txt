@@ -1,0 +1,5 @@
+Data structures are fundamental to advanced, efficient programming. Topics 
+including asymptotic analysis, stacks, queues, linked lists, trees, hash 
+tables, searching and sorting will be covered in discussions centering 
+around more sophisticated programming concepts and problem solving 
+techniques. Prerequisite: CS 250 with a minimum grade of C. 4 credits.

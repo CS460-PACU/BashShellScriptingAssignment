@@ -1,0 +1,6 @@
+This course is an introduction to the mathematical foundations of the 
+theory of computation. We will study automata theory, formal languages, 
+the theory of computability and undecidability, and computational complexity. 
+This material is central to many branches of computer science; it underlies 
+the basic theory of compiler design, the efficiency of algorithms, and the 
+limitations of computing. 
